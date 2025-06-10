@@ -17,7 +17,7 @@ It includes a navigation bar, hero section, shopping categories, and footer.
 
 - HTML5
 - CSS3 (No frameworks)
-- 
+  
 ---
 
 👨‍💻 Created with ❤️ by [Rajat Bisen]
