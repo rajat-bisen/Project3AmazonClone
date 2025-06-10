@@ -11,7 +11,7 @@ It includes a navigation bar, hero section, shopping categories, and footer.
 - 📸 Hero image section
 - 📚 Responsive layout with Flexbox
 - 👣 Amazon-style footer
-- - This is a **static clone.**
+- This is a **static clone.**
 
 ## 💡 Technologies Used
 
